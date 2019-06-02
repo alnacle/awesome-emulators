@@ -1,5 +1,3 @@
-This resource was made by developers and emulator lovers! We appreciate and recognize [all contributors](https://github.com/alnacle/awesome-emulators/contributors).
-
 # Contribution Guidelines
 
 If you'd like to add (or remove) a repository to the list, fork this repository and submit a pull request.

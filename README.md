@@ -8,14 +8,18 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Content
 
+- [Microsoft](#microsoft)
+  - [Xbox360](#xbox360)
 - [Nintendo](#nintendo)
   - [Gameboy](#gameboy)
   - [GameCube](#gamecube)
+  - [Nintendo 64](#nintendo64)
   - [Nintendo DS/3DS](#nintendoDS)
   - [NES](#nes)
   - [SNES](#snes)
 - [SEGA](#sega)
   - [Dreamcast](#dreamcast)
+  - [Genesis](#genesis)
   - [Saturn](#saturn)
 - [Sony](#sony)
   - [PSX](#psx)
@@ -24,20 +28,38 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [PSP](#psp)
   - [PSVita](#psvita)
 
+# Video Game Consoles
+
+## Microsoft
+
+### Xbox 360
+
+* [xenia-project](https://github.com/xenia-project) - an open source research project for emulating Xbox 360 games on modern PCs.
+
 ## Nintendo
 
 ### Gameboy
 
 * [mGBA](https://github.com/mgba-emu/mgba/) - aims to be faster and more accurate than many existing Game Boy Advance emulators.
 * [Gambatte](https://github.com/sinamas/gambatte) - is a work-in-progress and portable Game Boy Color emulator.
-* [Visualboyadvance M](https://github.com/visualboyadvance-m/visualboyadvance-m) - Game Boy Advance emulator integrating the best features from the various builds floating around.
+* [GearBoy](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
+* [VisualBoyAdvance](https://sourceforge.net/projects/vba/) - an emulator for Gameboy and GameboyAdvance systems.
+* [VisualBoyAdvance M](https://github.com/visualboyadvance-m/visualboyadvance-m) - Game Boy Advance emulator integrating the best features from the various builds floating around.
 
 ### Game Cube
 
 * [dolphin](https://github.com/dolphin-emu/dolphin) - C++ emulator for Windows, macOS and Linux.
 
+### Nintendo 64
+
+* [project64](https://github.com/project64/project64) - can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
+* [mupen64plus](https://github.com/mupen64plus) - a cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
+* [1964js](https://github.com/schibo/1964js) - is the first Nintendo 64 emulator for JavaScript.
+
 ### Nintendo DS/3DS
 
+* [DeSmuME](https://github.com/TASVideos/desmume) - it sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
+* [Dualis](http://dualis.1emu.net/files/index.html) - a plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++. 
 * [melonDS](https://github.com/Arisotura/melonDS) - aims at providing fast and accurate Nintendo DS emulation (still work in progress).
 * [Citra](https://github.com/citra-emu/citra) - an experimental open-source Nintendo 3DS emulator/debugger written in C++.
 
@@ -48,10 +70,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Nestopia](https://sourceforge.net/projects/nestopia/files/Nestopia/) - an emulator designed to emulate the NES hardware as accurately as possible.
 * [Nintaco](https://nintaco.com/source.html) - a cycle-accurate NES/Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
 * [Nitendulator](https://github.com/quietust/nintendulator) - a Win32 NES emulator written in C++.
+* [puNES](https://github.com/punesemu/puNES/) - Nintendo Entertaiment System emulator and NSF/NSFe Music Player (Linux, OpenBSD and Windows).
 
 ### SNES
 
 * [bsnes](https://gitlab.com/higan/higan) - a subset project of [higan](https://byuu.org/emulation/higan/), and focuses on performance, features, and ease of use.
+* [Mesen-S](https://github.com/SourMesen/Mesen-S) - a cross-platform (Windows & Linux) SNES emulator built in C++ and C#.
 * [snes9x](https://github.com/snes9xgit/snes9x) - a portable Super Nintendo Entertainment System emulator.
 * [ZSNES](https://sourceforge.net/projects/zsnes/files/zsnes/) - a free software Super Nintendo Entertainment System emulator written mostly in x86 assembly.
 
@@ -60,6 +84,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Dreamcast
 
 * [reicast](https://github.com/reicast/reicast-emulator) - a multi-platform Sega Dreamcast emulator.
+
+### Genesis / Megadrive
+
+* [blastem](https://www.retrodev.com/repos/blastem) - higly accurate emulator for the Genesis/Megadrive that runs on modest hardware.
+
+### Mastersystem
+
+* [Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
 
 ### Saturn
 
@@ -70,6 +102,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### PSX
 
 * [hpsx64](https://sourceforge.net/projects/hpsx64/files) - highly-Experimental Playstation Simulator x64.
+* [pcsxr](https://github.com/iCatButler/pcsxr) - a forked version of the dead PCSX emulator, with a nicer interface and several improvements to stability and functionality.
 
 ### PS2
 
@@ -88,4 +121,15 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 * [Vita3K](https://github.com/Vita3K/Vita3K) - an experimental PlayStation Vita emulator for Windows, Linux and macOS.
 
+
+# Arcade
+
+## SEGA Model3
+
+- [supermodel](https://www.supermodel3.com/Download.html) - aim of the Supermodel project is to develop an emulator that is both accurate and playable.
+
+# Multiemulators
+
+- [BizHack](https://github.com/TASVideos/BizHawk) - A multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers.
+- [mame](https://github.com/mamedev/mame) - a multi-purpose emulation framework.
 

@@ -8,6 +8,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Content
 
+- [Atari](#atari)
+  - [Atari 2600](#atari2600)
 - [Microsoft](#microsoft)
   - [Xbox360](#xbox360)
 - [Nintendo](#nintendo)
@@ -17,6 +19,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [Nintendo DS/3DS](#nintendoDS)
   - [NES](#nes)
   - [SNES](#snes)
+  - [Switch](#switch)
 - [SEGA](#sega)
   - [Dreamcast](#dreamcast)
   - [Genesis](#genesis)
@@ -29,6 +32,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [PSVita](#psvita)
 
 # Video Game Consoles
+
+## Atari
+
+### Atari 2600
+
+* [stella](https://github.com/stella-emu/stella) - a multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
 
 ## Microsoft
 
@@ -79,6 +88,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [snes9x](https://github.com/snes9xgit/snes9x) - a portable Super Nintendo Entertainment System emulator.
 * [ZSNES](https://sourceforge.net/projects/zsnes/files/zsnes/) - a free software Super Nintendo Entertainment System emulator written mostly in x86 assembly.
 
+### Switch
+
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - experimental Switch emulator written in C#.
+
 ## SEGA
 
 ### Dreamcast
@@ -121,15 +134,15 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 * [Vita3K](https://github.com/Vita3K/Vita3K) - an experimental PlayStation Vita emulator for Windows, Linux and macOS.
 
-
 # Arcade
 
 ## SEGA Model3
 
-- [supermodel](https://www.supermodel3.com/Download.html) - aim of the Supermodel project is to develop an emulator that is both accurate and playable.
+* [supermodel](https://www.supermodel3.com/Download.html) - aim of the Supermodel project is to develop an emulator that is both accurate and playable.
 
 # Multiemulators
 
-- [BizHack](https://github.com/TASVideos/BizHawk) - A multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers.
-- [mame](https://github.com/mamedev/mame) - a multi-purpose emulation framework.
+* [higan](https://gitlab.com/higan/higan) - emulates a number of classic video-game consoles of the 1980s and 1990s, allowing you to play classic games on a modern general-purpose computer.
+* [BizHack](https://github.com/TASVideos/BizHawk) - A multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers.
+* [mame](https://github.com/mamedev/mame) - a multi-purpose emulation framework.
 

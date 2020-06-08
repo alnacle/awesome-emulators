@@ -133,7 +133,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Gearsystem](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
 
-## Model3
+### Model3
 
 - [supermodel](https://www.supermodel3.com/Download.html) - Aim of the Supermodel project is to develop an emulator that is both accurate and playable.
 

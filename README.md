@@ -11,6 +11,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Atari](#atari)
   - [Atari 2600](#atari2600)
   - [Atari 800](#atari800)
+- [CHIP-8](#chip-8)
 - [Microsoft](#microsoft)
   - [Xbox](#xbox)
   - [Xbox360](#xbox360)
@@ -46,6 +47,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Atari 800
 
 - [atari800](https://github.com/atari800/atari800) - Atari 8-bit computer and 5200 console emulator.
+
+## CHIP-8
+
+- [chip8emu](https://github.com/LakshyAAAgrawal/chip8emu) - A Terminal Based Chip-8 Emulator written in C++.
 
 ## Microsoft
 

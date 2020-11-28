@@ -33,6 +33,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [PSX](#psx)
   - [PS2](#ps2)
   - [PS3](#ps3)
+  - [PS4](#ps4)
   - [PSP](#psp)
   - [PSVita](#psvita)
 
@@ -61,10 +62,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ## Multiemulators
 
 - [BizHack](https://github.com/TASVideos/BizHawk) - A multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers.
-- [DGen](https://sourceforge.net/p/dgen/dgen/ci/master/tree/) -  Portable Sega Genesis/Mega Drive emulator.
 - [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - An emulator for arcade games & select consoles.
 - [higan](https://gitlab.com/higan/higan) - Emulates a number of classic video-game consoles of the 1980s and 1990s, allowing you to play classic games on a modern general-purpose computer.
 - [MAME](https://github.com/mamedev/mame) - A multi-purpose emulation framework.
+- [mednafen](https://mednafen.github.io) - portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
 - [Xe](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe) - A emulator for many system such as Nintendo, SEGA, SNK, NEC, etc.
 
 ## Nintendo
@@ -84,13 +85,17 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Nintendo 64
 
-- [project64](https://github.com/project64/project64) - Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
-- [mupen64plus](https://github.com/mupen64plus) - A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
 - [1964js](https://github.com/schibo/1964js) - Nintendo64 emulator in JavaScript.
+- [daedalus](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
+- [mupen64plus](https://github.com/mupen64plus) - A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
+- [project64](https://github.com/project64/project64) - Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
+- [ryu64](https://github.com/Ryu64Emulator/Ryu64) - This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
 
 ### Nintendo DS/3DS
 
+- [3dmoo](https://github.com/plutooo/3dmoo/) - 3DS Emulator Prototype.
 - [Citra](https://github.com/citra-emu/citra) - An experimental open-source Nintendo 3DS emulator/debugger written in C++.
+- [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS/) - Corgi3DS is a dog-themed LLE 3DS emulator.
 - [DeSmuME](https://github.com/TASVideos/desmume) - It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
 - [Dualis](http://dualis.1emu.net/files/index.html) - A plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++. 
 - [melonDS](https://github.com/Arisotura/melonDS) - Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
@@ -127,6 +132,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Genesis / Megadrive
 
 - [blastem](https://www.retrodev.com/repos/blastem) - Higly accurate emulator for the Genesis/Megadrive that runs on modest hardware.
+- [DGen](https://sourceforge.net/p/dgen/dgen/ci/master/tree/) -  Portable Sega Genesis/Mega Drive emulator.
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) - An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator.
 
 ### MasterSystem / GameGear
@@ -139,6 +145,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Saturn
 
+- [Yabause](https://yabause.org/download) - Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
 - [Yaba Sanshiro](https://github.com/devmiyax/yabause) - Fork of the original Yabause Sega Saturn emulator.
 
 ## Sony
@@ -148,16 +155,25 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Avocado](https://github.com/JaCzekanski/Avocado) - A Modern Playstation 1 emulator.
 - [hpsx64](https://sourceforge.net/projects/hpsx64/files) - Highly-Experimental Playstation Simulator x64.
 - [pcsxr](https://github.com/iCatButler/pcsxr) - A forked version of the dead PCSX emulator, with a nicer interface and several improvements to stability and functionality.
+- [pcsx-redux](https://github.com/grumpycoders/pcsx-redux) - Yet another fork of the Playstation Emulator, PCSX.
 - [ProjectPSX](https://github.com/BluestormDNA/ProjectPSX) - Experimental C# Playstation Emulator.
+- [Rustation-ng](https://gitlab.com/flio/rustation-ng/) - PlayStation emulator in the Rust programing language.
 
 ### PS2
 
+- [DobieStation](https://github.com/PSI-Rockin/DobieStation/) - A young PS2 emulator with plans for an optimized Android port, as well as a fast, accurate, and easy-to-use PC port.
 - [pcsx2](https://github.com/PCSX2/pcsx2) - Emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory.
 - [Play!](https://github.com/jpd002/Play-) - An attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
 
 ### PS3
 
 - [RPCS3](https://github.com/RPCS3/rpcs3) - The world's first free and open-source PlayStation 3 emulator/debugger, written in C++ for Windows and Linux.
+
+### PS4
+
+- [orbital](https://github.com/AlexAltea/orbital) - Virtualization-based PlayStation 4 emulator.
+- [ps4delta](https://github.com/Force67/ps4delta) - PS4Delta is a very early high level PlayStation 4 emulator, written in c++.
+- [GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator which was just started.
 
 ### PSP
 

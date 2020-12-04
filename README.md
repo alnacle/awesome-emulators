@@ -10,7 +10,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Atari](#atari)
   - [Atari 2600](#atari2600)
-  - [Atari 5600 / 800](#atari800)
+  - [Atari 5600 / 800](#atari5200)
   - [Atari 7800](#atari7800)
   - [Atari Lynx](#atarilynx)
   - [Atari Jaguar](#atarijaguar)
@@ -19,7 +19,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [Xbox 360](#xbox360)
 - [Multiemulators](#multiemulators)
 - [Nintendo](#nintendo)
-  - [Gameboy](#gameboy)
+  - [Gameboy / Gameboy Color](#gameboy)
+  - [Gameboy Advance](#gba)
   - [GameCube / Wii](#gamecube)
   - [Nintendo 64](#nintendo64)
   - [Nintendo DS](#nintendoDS)
@@ -27,7 +28,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [NES](#nes)
   - [SNES](#snes)
   - [Switch](#switch)
-  - [Wii](#gamecube)
   - [Wii U](#wiiu)
 - [SEGA](#sega)
   - [Dreamcast](#dreamcast)
@@ -175,6 +175,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Saturn
 
+- [Kronos](https://github.com/FCare/Kronos) - Supercharged fork of Yabause that supports upscaling and tons more
 - [Yabause](https://yabause.org/download) - Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
 - [Yaba Sanshiro](https://github.com/devmiyax/yabause) - Fork of the original Yabause Sega Saturn emulator.
 

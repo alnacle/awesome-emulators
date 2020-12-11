@@ -99,8 +99,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Gameboy Advance
 - [mGBA](https://github.com/mgba-emu/mgba/) - Aims to be faster and more accurate than many existing Game Boy Advance emulators.
-- [VisualBoyAdvance](https://sourceforge.net/projects/vba/) - An emulator for Gameboy and GameboyAdvance systems.
-- [VisualBoyAdvance M](https://github.com/visualboyadvance-m/visualboyadvance-m) - Game Boy Advance emulator integrating the best features from the various builds of vanilla [VisualBoyAdvance] floating around.
 
 ### GameCube / Wii
 

@@ -45,7 +45,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [PS4](#ps4)
   - [PSP](#psp)
   - [PSVita](#psvita)
-
+- [ZX Spectrum](#zx-spectrum)
 
 ## Atari
 
@@ -227,4 +227,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Vita3K](https://github.com/Vita3K/Vita3K) - An experimental PlayStation Vita emulator for Windows, Linux and macOS.
 
+### ZX Spectrum
 
+- [ZX-Poly](https://github.com/raydac/zxpoly) - Free cross-platfom ZX-Spectrum 128 emulator for Windows, Linux and macOS written in Java. ZX-Poly, ZX-Spectrum 128 and Spec256 configurations have been supported.

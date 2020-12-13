@@ -10,10 +10,13 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Atari](#atari)
   - [Atari 2600](#atari2600)
-  - [Atari 5600 / 800](#atari5200)
+  - [Atari 5200](#atari5200)
+  - [Atari 800](#atari800)
   - [Atari 7800](#atari7800)
   - [Atari Lynx](#atarilynx)
   - [Atari Jaguar](#atarijaguar)
+- [Mattel](#mattel)
+  - [Mattel Intellivision](#mattelintellivision)
 - [Microsoft](#microsoft)
   - [Xbox](#xbox)
   - [Xbox 360](#xbox360)
@@ -50,9 +53,13 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [stella](https://github.com/stella-emu/stella) - A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
 
-### Atari 5200 / 800
+### Atari 800
 
 - [atari800](https://github.com/atari800/atari800) - Atari 8-bit computer and 5200 console emulator.
+- [Altirra](http://virtualdub.org/altirra.html) - Very accurate Atari 8-bit computer (All models) and 5200 console emulator.
+
+### Atari 5200
+
 - [kat5200](https://kat5200.jillybunch.com/downloads.html) - An emulator for the Atari 5200 and 8-bit computers
 
 ### Atari 7800
@@ -66,6 +73,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Atari Jaguar
 
 - [Virtual Jaguar](http://icculus.org/virtualjaguar/) - Virtual Jaguar is an open-source Atari Jaguar emulator.
+
+## Mattel
+
+### Mattel Intellivision
+
+- [jzIntv](http://spatula-city.org/~im14u2c/intv/) - Mattel Intellivision emulator and development environment.
 
 ## Microsoft
 

@@ -103,14 +103,15 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ## Nintendo
 
 ### Gameboy / Gameboy Color
+
 - [Gambatte](https://github.com/sinamas/gambatte) - Is a work-in-progress and portable Game Boy Color emulator.
 - [GearBoy](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
 - [SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.
 - [TGBDual](http://shinh.skr.jp/tgbdualsdl/) - A Japanese Game Boy/Game Boy Color emulator. It was the first to support link cable emulation (through TCP/IP), later followed by VBA Link and then modern emulators.
 - [TGBDual-L](https://github.com/libertyernie/tgbdual_L) - A rebase of changes in libertyernie/tgbdual on top of tgbdual_kai
 
-
 ### Gameboy Advance
+
 - [mGBA](https://github.com/mgba-emu/mgba/) - Aims to be faster and more accurate than many existing Game Boy Advance emulators.
 
 ### GameCube / Wii
@@ -146,6 +147,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Nitendulator](https://github.com/quietust/nintendulator) - A Win32 NES emulator written in C++.
 - [Mesen](https://github.com/SourMesen/Mesen) - A cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#.
 - [puNES](https://github.com/punesemu/puNES/) - Nintendo Entertaiment System emulator and NSF/NSFe Music Player (Linux, OpenBSD and Windows).
+- [SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator written in C++ for nothing but fun.
 
 ### SNES
 
@@ -166,6 +168,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ## SEGA
 
 ### Dreamcast
+
 - [flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator
 - [lxdream](https://github.com/lxdream/lxdream) - An emulator for the Sega Dreamcast system, running on Linux and macOS.
 - [nullDC](https://github.com/skmp/nulldc) - nullDC is an open source Dreamcast emulator

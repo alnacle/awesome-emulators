@@ -21,6 +21,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [Xbox](#xbox)
   - [Xbox 360](#xbox360)
 - [Multiemulators](#multiemulators)
+- [NeXT](#next)
 - [Nintendo](#nintendo)
   - [Gameboy / Gameboy Color](#gameboy)
   - [Gameboy Advance](#gba)
@@ -99,6 +100,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Mednafen](https://mednafen.github.io) - portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) - An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator. Emulates the all SEGA 8-bit and 16-bit consoles.
 - [Xe](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe) - A emulator for many system such as Nintendo, SEGA, SNK, NEC, etc.
+
+## NeXT
+
+- [Previous](http://previous.alternative-system.com/) - An emulator for all hardware created by NeXT, including the NeXT Computer, NeXTcube, and NeXTstation along with their variants.
 
 ## Nintendo
 

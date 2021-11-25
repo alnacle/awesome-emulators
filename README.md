@@ -32,6 +32,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [SNES](#snes)
   - [Switch](#switch)
   - [Wii U](#wiiu)
+- [PC](#pc)
 - [SEGA](#sega)
   - [Dreamcast](#dreamcast)
   - [Genesis / Megadrive](#genesis)
@@ -164,6 +165,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Wii U
 
 - [Decaf](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
+
+## PC
+
+- [VirtualXT](https://github.com/andreas-jonsson/virtualxt) - A portable, lightweight IBM PC/XT emulator written in Go.
 
 ## SEGA
 
